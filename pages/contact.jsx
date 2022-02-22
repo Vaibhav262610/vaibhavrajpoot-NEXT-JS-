@@ -22,7 +22,7 @@ const Contact = () => {
 
  <div className='relative right-80 sm:ml-40'>
      <p className='pb-8 text-4xl text-green-400 font-semibold'>Get in Touch</p>
-    <p className='text-4xl text-gray-400'>I'm available for freelance projects. Let's work together to create<br/> something worth sharing.</p>
+    <p className='text-4xl text-gray-400'>Im available for freelance projects. Let's work together to create<br/> something worth sharing.</p>
     <br/>
     <div className='flex flex-row gap-5'>
         <a href='#' target='_blank'>
